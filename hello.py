@@ -1,5 +1,5 @@
-# /usr/bin/python3
-# encoding:utf-8
+#! /usr/bin/env
+# encoding: utf-8
 
 print("Hello world!")
 
